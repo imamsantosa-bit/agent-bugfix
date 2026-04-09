@@ -15,5 +15,5 @@ func minus(a, b int) int {
 }
 
 func division(a, b int) int {
-	return a * b
+	return a / b
 }
