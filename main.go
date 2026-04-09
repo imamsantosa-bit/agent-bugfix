@@ -13,3 +13,7 @@ func plus(a, b int) int {
 func minus(a, b int) int {
 	return a + b
 }
+
+func division(a, b int) int {
+	return a * b
+}
